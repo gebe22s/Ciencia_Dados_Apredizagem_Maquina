@@ -10,14 +10,17 @@
 
 | Campo | Preenchimento |
 |---|---|
-| Título provisório do projeto | |
-| Curso / disciplina | |
-| Turma | |
-| Equipe | |
-| Integrantes e funções iniciais | |
-| Professor(a) | |
-| Data de elaboração | |
-| Versão do documento | |
+| Título provisório do projeto | Dashboard de BI em Python para área hospitalar|
+| Curso / disciplina |Sistemas de Informação |
+| Turma |Noturno |
+| Equipe |Gabriel Silva Dos Santos,Mauricio R. O da Silva|
+| Integrantes e funções iniciais ||
+| Professor(a) |Kadidja Valeria Reginaldo de Oliveira|
+| Data de elaboração |16/09/26|
+| Versão do documento |1º|
+
+
+
 
 ## 2. Visão geral
 
@@ -26,10 +29,8 @@
 Em até 100 palavras, apresente o problema, o público-alvo, a proposta de análise e o resultado esperado.
 
 **Preenchimento:**
+O problema consiste na dificuldade de transformar registros públicos brutos de saúde em informações visuais e sintéticas. O público-alvo é a gestão hospitalar pública do Distrito Federal. A proposta de análise visa desenvolver um protótipo de dashboard de Business Intelligence em Python, utilizando dados do DATASUS, SIH/SUS e CNES. O resultado esperado é demonstrar, de forma reprodutível, como organizar esses dados em indicadores visuais sobre leitos, internações e capacidade instalada para apoiar a análise gerencial e a tomada de decisão.
 
-________________________________________________________________________________
-
-________________________________________________________________________________
 
 ### 2.2 Declaração do projeto em uma frase
 
@@ -37,7 +38,7 @@ ________________________________________________________________________________
 
 **Versão da equipe:**
 
-________________________________________________________________________________
+Nosso projeto utilizará dados públicos do SUS, como DATASUS, SIH-SUS e CNES, para compreender o panorama de infraestrutura e a produção da rede de saúde, apoiando a área de gestão hospitalar pública na decisão de análise gerencial e monitoramento de indicadores por meio de dashboards visuais.
 
 ## 3. Contexto e definição do problema
 
@@ -52,9 +53,10 @@ Descreva a situação atual, o ambiente em que o problema ocorre e as evidência
 
 **Preenchimento:**
 
-________________________________________________________________________________
-
-________________________________________________________________________________
+-Área Hospitalar Publica
+-Gestores
+-A grande disponibilidade de dados brutos armazenados em bases como DATASUS, SIH/SUS e CNES evidencia a questão, pois a simples existência desses registros não garante que eles sejam utilizados de forma gerencial.
+-A gestão hospitalar pública necessita de ferramentas de Business Intelligence para converter esse volume de dados secundários em indicadores descritivos claros sobre leitos, média de permanência e evolução temporal das internações.
 
 ### 3.2 Problema central
 
@@ -64,7 +66,7 @@ Formule o problema de maneira específica, sem antecipar uma solução.
 
 **Problema definido:**
 
-________________________________________________________________________________
+A área hospitalar pública enfrenta problemas com a análise de dados no contexto de dificuldades para tratar as bases disponíveis, produzindo dificuldade para tomar decisões sem essas informações.
 
 ### 3.3 Evidências iniciais
 
