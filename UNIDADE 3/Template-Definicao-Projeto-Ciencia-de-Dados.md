@@ -14,7 +14,7 @@
 | Curso / disciplina |Sistemas de Informação |
 | Turma |Noturno |
 | Equipe |Gabriel Silva Dos Santos,Mauricio R. O da Silva|
-| Integrantes e funções iniciais ||
+| Integrantes e funções iniciais |Gabriel Silva Dos Santos,Mauricio R. O da Silva |
 | Professor(a) |Kadidja Valeria Reginaldo de Oliveira|
 | Data de elaboração |16/09/26|
 | Versão do documento |1º|
